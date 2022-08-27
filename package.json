@@ -1,0 +1,22 @@
+{
+  "name": "calc",
+  "version": "1.0.0",
+  "description": "calculator sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Ferdnan/calculadora.git"
+  },
+  "author": "Jose Fernandes Santos Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ferdnan/calculadora/issues"
+  },
+  "homepage": "https://github.com/Ferdnan/calculadora#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
