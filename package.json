@@ -4,13 +4,13 @@
   "description": "calculator sample",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/Ferdnan/calculadora.git"
   },
-  "author": "Jose Fernandes Santos Lima",
+  "author": "Jose   Fernandes Santos Lima",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ferdnan/calculadora/issues"
